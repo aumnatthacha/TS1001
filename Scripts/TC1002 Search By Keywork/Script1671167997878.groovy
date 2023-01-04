@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com')
 
-WebUI.setText(findTestObject('Page_Google/input__q'), 'NPKU')
+WebUI.setText(findTestObject('Page_Google/input__q'), 'KRU')
 
 WebUI.click(findTestObject('Page_Google/input__btnK'))
 
